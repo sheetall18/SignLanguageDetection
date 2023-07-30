@@ -1,1 +1,2 @@
 # SignLanguageDetection
+Machine Learning project
